@@ -29,8 +29,8 @@ h1 {
 
 .wrapper {
   margin: 0 auto;
-  max-width: 960px;
-  padding: 0 2%;
+/*  max-width: 960px;*/
+  padding: 0 5%;
 }
 
 nav ul {
